@@ -1,1 +1,1 @@
-# AWS ECS ci/cd Example with circleci
+# AWS ECS ci/cd example with circleci
