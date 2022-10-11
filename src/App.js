@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           DevOps part-2 || 2022
-          Presented By Sajid Ansari
         </p>
         <a
           className="App-link"
